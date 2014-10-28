@@ -40,8 +40,7 @@ string get_sentence();
 int main()
 {
     srand(int(time(NULL)));
-    for (int i = 0; i < 10; ++i)
-        cout << get_sentence() << "\n\n";
+    cout << get_sentence() << "\n\n";
 }
 
 string get_from_file(string filename)
