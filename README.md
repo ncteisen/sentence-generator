@@ -11,6 +11,9 @@ Since the grammar is imperfect, mismatches between the verb and the subject aren
 word lists provided by Ashley Bovan, from his website; http://www.ashley-bovan.co.uk/words/partsofspeech.html.
 He compiled the lists from the MOBY word lists and the UK Advanced Cryptics Dictionary.  
   
+The recursive state diagram that I used to make this program can be seen here:
+https://sorenthebrave.files.wordpress.com/2014/10/img_20141019_181003445.jpg  
+  
 The words in his list are very big, so a lot of the sentences are hard to understand. I have run the program a lot,
 and here are some of my favorites:  
   
